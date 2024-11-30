@@ -34,3 +34,10 @@ let combine = {}
     this.courses += chemistry;
 }
 console.log(student"${this.courses}");
+
+totalCourses = function () {
+    return this.courses.length;
+};
+
+ console.log("total number of courses" + this.courses.length);
+*/
