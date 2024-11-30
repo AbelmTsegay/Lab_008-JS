@@ -28,3 +28,9 @@ console.log(firstScore, secondScore);
 let cloneStudent = {...student, graduationYear : 2025};
 console.log(cloneStudent);
 let combine = {}
+
+
+/*addcourses =function(){
+    this.courses += chemistry;
+}
+console.log(student"${this.courses}");
