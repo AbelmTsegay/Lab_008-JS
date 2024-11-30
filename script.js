@@ -15,3 +15,6 @@ console.log(studentJSON);
 
 let newStudent = JSON.parse (studentJSON);
 console.log(newStudent);
+
+let {name, courses} = student;
+console.log(name, courses);
