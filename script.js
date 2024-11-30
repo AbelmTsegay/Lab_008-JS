@@ -12,3 +12,6 @@ console.log(student.age);
 
 let studentJSON = JSON.stringify(student); 
 console.log(studentJSON);
+
+let newStudent = JSON.parse (studentJSON);
+console.log(newStudent);
