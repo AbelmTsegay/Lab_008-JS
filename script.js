@@ -23,3 +23,8 @@ const scores = [85, 92, 78, 90];
 
 let [firstScore, secondScore]= scores;
 console.log(firstScore, secondScore);
+
+
+let cloneStudent = {...student, graduationYear : 2025};
+console.log(cloneStudent);
+let combine = {}
