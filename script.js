@@ -18,3 +18,5 @@ console.log(newStudent);
 
 let {name, courses} = student;
 console.log(name, courses);
+
+const scores = [85, 92, 78, 90];
