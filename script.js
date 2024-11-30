@@ -7,3 +7,4 @@ let student = {
         console.log("What is your age"+ this.age);
     }
 };
+console.log(student.name)
